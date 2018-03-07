@@ -1,0 +1,53 @@
+=== Area 26 ===
+
+In area 25 to the south, the players encounter Lesso, cornered by three giant rats. 
+He is in bad shape and strangely is fighting alongside a smaller goblin, named "gilly". Despite
+the assistance, they are being overpowered. If the players help the duo and 
+slay the rats, Lesso immediately attacks the goblin (These kobolds are not fans
+of goblins under any circumstance) but the goblin simply cries out, rather than attacking.
+Gilly says, in goblin, "Wait, wait! Please I don't mean you harm!" Erky understands his cries
+and calls to Lesso to stop his attack. Lesso does not relent unless the players remove him from
+his tussle. If the players engage Gilly in conversation, he speaks in broken common.
+
+Gilly's Knowledge:
+    * Gilly has come to ask the players assistance, secretly. Gilly belongs to a 
+      small group of goblins, led by the advisor to the chief ("Grenl"), who love 
+      their tribe and want only for an exit from this awful place. However, the Durbuluk
+      tribe's control has recently been usurped by Durnn, a hobgoblin, and three of his cohorts.
+
+    * Grenl and Gilly wish for the party to kill or drive Durnn out of tribe, so that Grenl can
+      control the tribe, and lead them out of the citadel, if the Durbuluk tribe wishes it.
+
+    * Gilly tells the party of back entrance to the Hall of the Goblin Chief, a door on the
+      Northern wall of hazy, smoky hall West of the shooting range (area 39). Through that door is
+      an unused hall which will give the party the advantage of surprise when entering the Chief's 
+      quarters, and allow them to bypass Goblinville and the commotion that would cause. 
+
+    * Gilly also knows that there is a well in the Chief's quarters, which leads down below, 
+      and from which Belik occasionally emerges to converse with Durnn.
+
+    * If the players attack Durnn, Grenl will not assist them until Durnn falls, fearing reprisal
+      should the party fail. If Durnn falls however Grenl will turn on the remaining hobgoblins.
+      She is proficient in tribal hexes and capable in a fight. 
+
+After this, Calcryx begins to get restless. With a calming word from Cenarius, she will quiet momentarily,
+but will insist on the party's promise being fulfilled soon, and she be freed. If the players choose to
+ignore her chiding, she will attempt to break away and escape herself. 
+
+=== Attempt to free Calcryx ===
+
+If the players are chasing Calcryx after ignoring her in area 25, three kobold guards will have been alerted
+and will be in combat with Calcryx. Cenarius can attempt to pull her out of combat, with a DC 15 persuasion 
+check. If unsuccesful, the players will have to fight it out with the guards. 
+After combat, six more kobold guards approach with Yusdrayl, furious at the apparent betrayal. 
+She gives the players a chance to explain themselves. If someone brings up the fact that the 
+goblins will be attempting to leave the citadel, she may spare the characters, but still expects 
+calcryx to be returned. If the players insist on freeing the dragon, Yusdrayl will not attack the 
+party (as she feels she will lose the fight), and allows the party to leave only on the promise of 
+ridding her teritory of the goblins.
+
+If the players listen to calcryx, the can attempt a stealth check of DC 10 to enter the door on the
+eastern wall to the south. Once outside the citadel, Calcryx will acknowledge the party (but not thank them)
+and fly out of the Ravine. They may then return or leave if they wish.
+When eventually confronted by Yusdrayl, they may lie. If they tell her the truth, she is furious but will not
+attack the players on promise of ridding the citadel of goblins.

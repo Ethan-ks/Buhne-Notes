@@ -1,0 +1,33 @@
+=== City of Splendors ===
+
+The city of Waterdeep lies on the mid-Western coast of [[Ganice]], and is the 
+continent's largest city.  Founded around 300 years ago my the first 
+adventurers and merchant's seeking their fortune at the advent of the Age 
+of Expansion, it quickly abandoned the old customs and methods of 
+governance of [[Uralt]].
+
+The City of Waterdeep is divided into several Wards, once walled from each other
+as semi-autonomous city-states. These walls have fallen with time and with the
+unification of the city by the Masked Council, however two wards remain walled
+and guarded: City of the Dead, and Cathedral Ward.
+
+==== The Wards ====
+* Castle Ward
+    - Traditionally the domain of the wealthy and powerful in Waterdeep.
+    - Makes up the westernmost part of the city, along with Cathedral Ward to
+      the North. Its Western border follows the curvature of the towering Mt.
+      Waterdeep, which itself extends to the coast of Ganice.
+    - The Yawning Portal, a tavern known to adventurers, sits just a ways up
+      the base of Mt. Waterdeep, atop the only know entrance to the
+      [[Undermountain]].
+    - Castle Wards is home to the city's administrative buildings and buildings
+      of governance. The southern portion of Castle Ward containing these
+      buildings, along with Dock Ward, form the oldest section of Waterdeep. 
+    - The central section of Waterdeep is comprised by the Grand Bazaar, a city
+      in itself made up of shops and stall offering an endless variety of
+      scents, sights, and both magical and mundane products. 
+    - Wealthy residential space makes up the ward's Northern crest.
+
+* Dock Ward
+    - The Dock Ward is the city's oldest area, having been the landing
+      sight of the first settlers of Ganice. The city expanded from there, 
