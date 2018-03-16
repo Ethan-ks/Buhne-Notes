@@ -1,3 +1,5 @@
+[[notes/waterdeep|WIPNotes]]
+
 == Campaign Notes ==
 Table of Contents
     * [[#Session Notes|Session Notes]]
