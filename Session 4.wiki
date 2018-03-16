@@ -33,21 +33,3 @@ Gilly's Knowledge:
 After this, Calcryx begins to get restless. With a calming word from Cenarius, she will quiet momentarily,
 but will insist on the party's promise being fulfilled soon, and she be freed. If the players choose to
 ignore her chiding, she will attempt to break away and escape herself. 
-
-=== Attempt to free Calcryx ===
-
-If the players are chasing Calcryx after ignoring her in area 25, three kobold guards will have been alerted
-and will be in combat with Calcryx. Cenarius can attempt to pull her out of combat, with a DC 15 persuasion 
-check. If unsuccesful, the players will have to fight it out with the guards. 
-After combat, six more kobold guards approach with Yusdrayl, furious at the apparent betrayal. 
-She gives the players a chance to explain themselves. If someone brings up the fact that the 
-goblins will be attempting to leave the citadel, she may spare the characters, but still expects 
-calcryx to be returned. If the players insist on freeing the dragon, Yusdrayl will not attack the 
-party (as she feels she will lose the fight), and allows the party to leave only on the promise of 
-ridding her teritory of the goblins.
-
-If the players listen to calcryx, the can attempt a stealth check of DC 10 to enter the door on the
-eastern wall to the south. Once outside the citadel, Calcryx will acknowledge the party (but not thank them)
-and fly out of the Ravine. They may then return or leave if they wish.
-When eventually confronted by Yusdrayl, they may lie. If they tell her the truth, she is furious but will not
-attack the players on promise of ridding the citadel of goblins.
