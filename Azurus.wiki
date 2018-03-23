@@ -6,11 +6,16 @@
 
 *Class*: Rogue
 
+*Characteristics*
+    * Seeking new and notable techniques for killing (allegedly he only targets evil people)
+    * Grew up on the streets of Waterdeep as an orphan
+    * Developed a phobia of frogs and similar creatures after a run in with a giant toad during combat with Belak the Outcast
+
 *Notable Associates*:
     * TBA
 
 *Known Organizations*:
     * The Unseen:
         - A criminal organization based in Waterdeep
-        - Azarus is in contact with the group for info on methods of assassination and stealth, they have commisioned him to retrieve a magical fruit from the north in return for information
-        - A very loose association between Azarus and The Unseen, a single meeting so far.
+        - Azurus is in contact with the group for info on methods of assassination and stealth, they have commissioned him to retrieve a magical fruit from the north in return for information
+        - A very loose association between Azurus and The Unseen, a single meeting so far.
