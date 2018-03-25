@@ -2,7 +2,28 @@
     _Some folks go to Ganice to earn their fortune. Others go to find it_
     
 ----
+==== Regions ====
+* [[The Southern Marshes]]
+* [[Vastwood]]
+* [[Darkwood]]
+* [[The Eastern Foothills]]
+* [[Lerekern|Lerekern Badlands]]
+* [[The Frostlands]]
+* [[The Walled Unknown]]
+* [[Prato Coast]]
+* [[The Odak Peninsula]]
+* [[Secmeere Lake]]
+* [[Telmora Islands]]
 <br />
 ==== Cities and Towns ====
 
 * [[Waterdeep]]
+* [[Rama]]
+* [[Daggeford]] 
+* [[Pontemtown]]
+* [[The Port of Autre Cote]]
+* [[The New Republic of Lud]]
+* [[Pasha Monastery]]
+* [[Oakhurst]]
+* [[Nordenholde]]
+* [[Kingdom of Borland]]

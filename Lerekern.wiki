@@ -1,0 +1,61 @@
+=== Lerekern Region ===
+* The Lerekern region, the arid badlands in the center of Ganice, spans an area of around 40,000sq 
+  miles. It are surrounded on all sides by the [[Hulle Mountain Range]], with a break in the mountains
+  at the North and South tips of the desert.
+
+* Its environment is analogous to the American Mojave desert, or the Australian bush.
+
+* Until the recent expansion Eastward by the Waterdeep Trade Council in their bid to gain control of
+  the disparate settlements and city-states occupying Ganice via economic superiority, Lerekern was
+  entirely unexplored by the Uraltan settlers of Ganice. In an effort to expand their trade routes,
+  Waterdeep laid a road from their city to [[Nordenholde]], in the very Northwest of Ganice, through
+  the Lereken desert.
+  
+* Thought to be unpopulated when first explored at the settlement of Ganice, the Lerekern desert is
+  now home to the [[Hidden City of Rama]]. Populated by a warlike culture of humanoids, it is not known whether
+  these individuals are native to Ganice, or are made up of prisoners and exiles sent to their
+  deaths in the desert. The location of Rama is not known to the civilisations of Ganice, much to
+  the misfortune of the merchants traveling between Waterdeep and Nordenholde. The few who have
+  survived an encounter with the Red Riders of Rama return scarred, both mentally and physically.
+  Missing fingers and ears is a common theme among survivors, perhaps taken as trophies by the
+  riders. 
+  
+==== The Red Riders of Rama ====
+* The riders travel the desert in makeshift karts drawn by horses, they appear to be "a rolling pile
+  of discarded lumber, held together only by the blood-lust of its passengers."
+
+* The riders attack caravans travelling through the Lerekern desert on the road, and generally
+  attack in groups of three of four carts, with one of the carts hanging back and carrying two or
+  three Ramana, playing large drums.
+
+* Riders sandwich their target between two karts, and throw grappling hooks on ropes to bind their
+  carts to the target, attempting to prevent their escape. The Riders attack recklessly, climbing
+  the ropes or simply jumping the gap between the carts. They wield a strange hook in one hand (for
+  saving themselves from a fall off of a cart) and a shortsword in the other hand. 
+  - Riders reckless nature, and their lack of any armor makes their AC very low.
+    * Standard Riders have 10 AC, and Rider Captains have 12 AC.
+    * Riders make two attacks each turn, one with the hook and the other with the shortsword.
+    * Standard Riders have 40 HP each, with captains at 50 HP.
+
+
+*Red Rider*<br />
+Medium Humanoid (_Chaotic Evil_)
+----
+Armor Class: 10<br />
+Hit Points:  40<br />
+Speed:       40ft | Climb 20ft<br />
+----
+STR 12 (+1) | DEX 18 (+4) | CON 12 (+2) | INT 10 (+0) | WIS 8 (-1) | CHA 6 (-2)
+----
+Condition Immunities: Frightened<br />
+Languages: Ramaic, Common<br />
+Challenge: 1/2 (100XP)
+----
+Actions
+----
+*Multiattack* Riders make two attacks each turn, one with each weapon.<br />
+*Hook* _Melee weapon attack_ +4 to hit, reach 5ft, one target.<br />
+_Hit_: 5 (1d8 + 1) piercing damage<br />
+*Shortsword*: _Melee weapon attack_ +4 to hit, reach 5ft, one target.<br />
+_Hit_: 4 (1d6 + 1) slashing damage
+

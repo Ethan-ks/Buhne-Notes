@@ -10,18 +10,14 @@ Table of Contents
 ==== Session Notes ====
 ----
 <br />
-<br />
-[[Session 4]]
-[[Session 5]]
-[[Session 6]]
-[[Session 7]]
+[[Session 4]]<br />
+[[Session 5]]<br />
+[[Session 6]]<br />
+[[Session 7]]<br />
 
 <br />
 ==== The Realm of Buhne ====
 ----
-<br />
-<br />
-
 [[Ganice]]:: The Land of Merchants and the Untamed
 
 [[Uralt]]:: Politics and Intrigue: The Old World

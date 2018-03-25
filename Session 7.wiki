@@ -1,22 +1,65 @@
 === Wrapping up in Oakhurst ===
 As the players move to leave Oakhurst, they are approached by an unusually dressed pair.
 
-Natalia and Nikola Shenova
+==== Natalia and Nikola Chenova ====
  * !notRomanian brother and sister, speak with Russian-ish accents.
  * Dressed in somewhat tattered fine clothing with some leather adornments added for protection.
+ * Merchants and smugglers, quick witted and happy to break the law if it makes some money.
+ * Orphaned as children and have stuck together since, grew up in Waterdeep but are currently
+   involved in the rare and exotic animal trade.
+ * If the players make it out of the badlands with the cart in one piece, Varis is awarded a
+   companion of his choice.
  
-  ==== Natalia Chenova ====
+===== Natalia Chenova =====
   * The older of the two siblings, in her mid twenties.
   * In speaking to her, you get the sense that she is constantly engaged in this plan or that.
   * Natalia wears a navy blue military shirt, with gilded straps and tassels. Were it in better
    shape, you might mistake her for a general leading troops to war. She wears riding boots. Her 
    face is soft but certain, a face which evokes loyalty from those around her.
-  * Refers to Nikola as Nikki, or as 
+  * Refers to Nikola as Nikki, or as "Pui" (Little one in !notRomanian.)
    
    
-  ==== Nikola Chenova ====
+===== Nikola Chenova =====
   * Nikola wears a white collared shirt underneath a peat-colored leather vest, in turn underneath a
     thicker leather jacket.
   * Looks to be around 18, with a bright face and large personality. Loves his sister more than
     anything else, with excitement and money trailing close behind.
   * Refers to Natalia exclusively as "Sura" (Sister in !notRomanian) or "Iubi" (love in !notRomanian)
+
+
+==== Red Riders of Rama ====
+The players are enlisted by Natalia and Nikola Chenova to guard her shipping cart through its
+journey through the [[Lerekern]] region to Waterdeep. Riding with them is their companion, a Human
+Bard (Haley). When the party leaves, Nikola is driving the cart, guiding a group of twelve horses to
+accommodate the exceptionally large shipping cart. The cart is wooden roofed, and nearly 30 feat
+long, and 15 feet wide. It is open fronted to allow conversation between the front portion and the
+driver, with the middle 20 feet of the ground floor occupied by storage for freight. The roof covers
+this twenty-five foot portion. The last 5 feet of ground floor extend past the roof to give access
+via ladder to the roof above.
+Three days into the 3 week journey, A strange apparition appears on the road ahead -
+    _Through the wavering air warped by the heat of the desert, you see a man standing in the road._
+    _What appears to be a child sits on one of his shoulders, and long slab of metal is strung over_
+    _the mans back._
+Mackie and (Angie's Character) request a ride from the party, and with the next town many miles
+south, they will likely die of exposure if left where they are. Presumably the party allows them a
+ride.
+
+    _As the journey continues, you hear a steady beat cut through the haze and dust of the desert._
+    _From the front of the cart you hear Natalia's voice: "Nikki, ele sunt inca depara. Make haste!"_
+    _The beat grows louder, and you recognize it as the beat of a drum. Soon you see dust swirling_
+    _in the desert air, growing closer and closer to you. As the beat of the drum draws close enough to_
+    _reverberate against your chest, you see its source: Three rolling jumbles of wooden planks and_
+    _straps, screaming across the desert, seemingly held together by sheer force of will and drawn_
+    _by a pair of horses each. The vehicle in the center carries three creatures, hammering with_
+    _bloody hands against leather drums strapped haphazardly to the cart. The other two carts pull_
+    _towards you, and level themselves with you. Three hooks fly from each side, attaching ropes_
+    _from your cart to theirs._
+    
+See combat sheet for details on the fight.
+After this fight is concluded, the party may circle back for any comrades that had fallen from the
+carts. Otherwise:
+
+    _The sea of clay beneath the cart is finally broken by scattered greenery at first, and soon the dust of the_
+    _desert is replaced by the green and brown of fertile land. You hear the rushing of water to_
+    _the East, and the scattering of trees providing occasional relief from the desert sun grow_
+    _into a thick canopy above you._

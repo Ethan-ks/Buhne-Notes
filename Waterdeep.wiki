@@ -31,3 +31,4 @@ and guarded: City of the Dead, and Cathedral Ward.
 * Dock Ward
     - The Dock Ward is the city's oldest area, having been the landing
       sight of the first settlers of Ganice. The city expanded from there, 
+    -  
